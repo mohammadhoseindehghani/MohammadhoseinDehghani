@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=flytocs&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="flytocs" />
   </p>
 </div>
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
 <img align="right" height="140em" src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.png" />
 
 <div align="center">
