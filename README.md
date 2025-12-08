@@ -1,5 +1,14 @@
-### Hi there, I'm <a href="https://aysaweb.co" target="_blank">Mohammadhosein Dehghani</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flytocs&label=Profile%20views&color=0e75b6&style=flat" alt="flytocs" /> </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Mohammadhosein%20Dehghani&fontSize=50&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Hi%20there!%20👋&descAlign=50&descAlignY=65&descSize=20" width="100%" alt="Header" />
+
+  <a href="https://aysaweb.co">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=I'm+a+.NET+Software+Engineer;Building+Scalable+Backends;Welcome+to+my+Profile!" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=flytocs&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="flytocs" />
+  </p>
+</div>
 
 <img align="right" height="140em" src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.png" />
 
