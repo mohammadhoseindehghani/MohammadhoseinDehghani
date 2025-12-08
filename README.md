@@ -36,17 +36,23 @@ Always excited to collaborate on projects that make a difference.
 
 
 <!--END_SECTION:waka-->
-#### My Skills
+## 🛠️ My Skills
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
+  <img src="https://dotbadges.com/wp-content/uploads/2023/01/ASP-Net-Core-Sticker.webp" width="40" alt="ASP.NET Core" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" />
+</p>
 
 
-<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://skillforge.com/wp-content/uploads/2020/10/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/640px-React_Logo_SVG.svg.png" />
-<img align="left" alt="html" width="26px" src="https://www.netgen.co.za/wp-content/uploads/2022/03/C-image-for-Netgen.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://th.bing.com/th/id/R.225fbbe09689a4a3219ae1e00fe2280b?rik=5bqX09pA9xFBlA&pid=ImgRaw&r=0" />
-<img align="left" alt="npm" width="26px" src="https://github.com/FlyToCs/FlyToCs/blob/master/Visual_Studio.png" />
-<img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
 
 <br><br><br>
 
