@@ -7,11 +7,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/MohammadhoseinDehghani)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://aysaweb.co)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/FlyToCs)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/FlyToCs/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/FlyToCs)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=FlyToCs.FlyToCs)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=MohammadhoseinDehghani.MohammadhoseinDehghani)
 
 I’m a software engineer passionate about building clean, scalable, and impactful applications.
 Currently, I focus on .NET technologies (C#, ASP.NET Core, EF Core, Dapper) and enjoy creating modern, reliable, and user-friendly solutions.
@@ -53,8 +52,11 @@ Always excited to collaborate on projects that make a difference.
 
 ## ⚡ My Github Stats
 
-[![Mohammadhosein Dehghani's github stats](https://github-readme-stats.vercel.app/api?username=MohammadhoseinDehghani)](https://github.com/MohammadhoseinDehghani)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadhoseinDehghani&layout=compact)](https://github.com/MohammadhoseinDehghani/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammadhoseinDehghani&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammadhoseinDehghani&theme=transparent)
+
+
+
 
 
 
