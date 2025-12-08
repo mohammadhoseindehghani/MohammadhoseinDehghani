@@ -3,8 +3,6 @@
 
 <img align="right" height="140em" src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.png" />
 
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/MohammadhoseinDehghani)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://aysaweb.co)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/FlyToCs/)
@@ -53,19 +51,10 @@ Always excited to collaborate on projects that make a difference.
 </p>
 
 
-
-
 <br><br><br>
 
 ## ⚡ My Github Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammadhoseinDehghani&theme=transparent)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammadhoseinDehghani&theme=transparent)
-
-
-
-
-
-
-
 
