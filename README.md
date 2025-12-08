@@ -1,7 +1,7 @@
 ### Hi there, I'm <a href="https://aysaweb.co" target="_blank">Mohammadhosein Dehghani</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flytocs&label=Profile%20views&color=0e75b6&style=flat" alt="flytocs" /> </p>
 
-<img align="right" height="140em" src="https://raw.githubusercontent.com/FlyToCs/gophers-master/919bffa24a85d9dd0896522461cbf3ab76a2ed00/vector/projects/surfing-js.svg">
+<img align="right" height="140em" src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.png" />
 
 
 
@@ -23,14 +23,15 @@ Always excited to collaborate on projects that make a difference.
 
 
 
-**Talking about Personal Stuffs:**
+### 🧩 Talking About Personal Stuff
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 📚 I’m currently learning on [Udemy](https://Udemy.com);
-- 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [Aysaweb.co](https://Aysawen.co);
-- 📫 How to reach me: dehghani.fullstack@gmail.com;
-- 📝 [Resume](https://github.com/FlyToCs).
+- 👨🏻‍💻 I’m currently building real-world projects to strengthen my .NET and software architecture skills.  
+- 🚀 I’m actively leveling up in C#, ASP.NET Core, EF Core, SQL Server, and clean backend development.  
+- 💬 Feel free to ask me anything about .NET, backend development, or software engineering — I’m always happy to help.  
+- 📘 I learn daily through high-quality courses, documentation, and hands-on practice.  
+- 🧠 I enjoy solving problems, designing maintainable systems, and learning modern engineering patterns.  
+- 📫 How to reach me: **dehghani.fullstack@gmail.com**  
+- 📝 **Resume:** [Click Here](https://www.linkedin.com/in/mohammadhoseindehghani/)
 
 </br>
 
