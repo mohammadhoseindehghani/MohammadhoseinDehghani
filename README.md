@@ -3,10 +3,25 @@
 
 <img align="right" height="140em" src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.png" />
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/MohammadhoseinDehghani)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://aysaweb.co)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/FlyToCs/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/FlyToCs)
+<div align="center">
+  
+  <a href="https://linkedin.com/in/MohammadhoseinDehghani">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://aysaweb.co">
+    <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://instagram.com/FlyToCs/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://t.me/FlyToCs">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:dehghani.fullstack@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=MohammadhoseinDehghani.MohammadhoseinDehghani)
 
@@ -34,27 +49,21 @@ Always excited to collaborate on projects that make a difference.
 </br>
 
 
-<!--END_SECTION:waka-->
-## 🛠️ My Skills
+## 🛠️ Tech Stack & Skills
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
-  <img src="https://dotbadges.com/wp-content/uploads/2023/01/ASP-Net-Core-Sticker.webp" width="40" alt="ASP.NET Core" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" alt="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=docker,git,postman,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</div>
 
 
-<br><br><br>
+<br>
 
-## ⚡ My Github Stats
+<h2 align="center">⚡ GitHub Analytics</h2>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammadhoseinDehghani&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammadhoseinDehghani&theme=transparent)
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammadhoseinDehghani&theme=nord_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammadhoseinDehghani&theme=nord_dark" alt="Languages" />
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%" />
