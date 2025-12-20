@@ -29,7 +29,6 @@
   <a href="mailto:dehghani.fullstack@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
 </div>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=MohammadhoseinDehghani.MohammadhoseinDehghani)
@@ -65,7 +64,6 @@ Always excited to collaborate on projects that make a difference.
   <img src="https://skillicons.dev/icons?i=docker,git,postman,github" />
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </div>
-
 
 <br>
 
