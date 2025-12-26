@@ -42,8 +42,6 @@ Always excited to collaborate on projects that make a difference.
 
 <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="408" height="318" />
 
-
-
 ### 🧩 Talking About Personal Stuff
 
 - 👨🏻‍💻 I’m currently building real-world projects to strengthen my .NET and software architecture skills.  
