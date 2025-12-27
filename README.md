@@ -65,7 +65,6 @@ Always excited to collaborate on projects that make a difference.
 <br>
 
 <h2 align="center">⚡ GitHub Analytics</h2>
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammadhoseinDehghani&theme=nord_dark" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammadhoseinDehghani&theme=nord_dark" alt="Languages" />
